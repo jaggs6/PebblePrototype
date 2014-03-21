@@ -1,5 +1,5 @@
 var config = {
-    setting: 'Setting'
+    setting: 'LALA'
 };
 
 module.exports = config;
